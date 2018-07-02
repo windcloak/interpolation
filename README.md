@@ -18,4 +18,4 @@ cl interp.c
 After compiling the code, you can run the program on the command prompt or open the exe file.
 <img src="sample.jpg">
 
-You can run the interpolation code as many times as you'd like. The program runs in a while loop.
+The program runs in a while loop, so you can run the interpolation code as many times as you'd like. 
