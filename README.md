@@ -4,7 +4,6 @@
 This program will interpolate a 3rd point when given 2 points. 
 More specifically, it can give an interpolated x-point when given a y-point, or an interpolated y-point when given an x-point.
 
-## Purpose
 This is useful in intro engineering classes, e.g. interpolating a temperature in a steam table. I wrote a simpler version of this program for my TI calculator. Using this program for homework should make the process much faster.
 
 ## Installation
